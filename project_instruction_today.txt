@@ -1,0 +1,71 @@
+Hello. I need a professional developer that know how the market analysis work base on currency pairs alone to to program the simple following features for me.                                                                 
+
+
+
+I will like to create a simple online scan low volatility website, that can do the following.
+
+
+
+It should have 3 filter tab that basically tell when is the low volatility will happen in the markets including days and times. (This should work 100% accurate with the market base on currency pairs only)
+
+
+
+THE SCAN FILTER 
+
+
+
+1: THE LOCATION FILTER - User should able to choose the location they want to scan base on country time zone
+
+ 
+
+2: CHOOSE CURRENCY FILTER - User should able to choose the list of the currency pairs they want to scan (This should include all currency pairs)
+
+
+
+3: DATE FILTER - Choose the date. This should have features where users are able to choose day’s e.g (Today, Tomorrow, This week, Next week.)
+
+
+
+SCAN
+
+
+
+So when user click scan. The end result should show when the market will be on low volatility, like when the low volatility will start and end for the day. E.g the result should show up like this, I'm using the GMT timezone for the example if I chose GMT timezone and the list of currency pairs on my search
+
+
+
+EXAMPLE 
+
+
+
+GMT Time zone best trading time
+
+EUR/USD - 9am till 12pm
+
+GBP/USD - 8am till 11pm
+
+USD/JPY - 11am till 2pm
+
+USD/CAD - 12pm till 1pm 
+
+
+
+And that is just it, the most important is that users should be able to choose their time zone and get the best time when the market is mostly on a low volatility which is always the best time to trade in during the time zone they search for.
+
+
+
+The purpose of this website is to show when the market is most stable to trade. 
+
+
+
+Note: This search result should be 100% corresponds with the market's low volatility analysis. 
+
+
+
+
+
+Pls, let me know if this is what you can do and the cost price.
+
+
+
+Also want to have an admin dashboard and be able to control all the registered users.

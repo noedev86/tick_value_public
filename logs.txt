@@ -1,0 +1,1032 @@
+[connected localhost]
+[connected localhost]
+successfully connected to db
+found : AUD-CAD in database already
+table created : AUD
+table created : CAD
+found : AUD-CHF in database already
+found base AUD in database already
+found quote CHF in database already
+found : AUD-JPY in database already
+found base AUD in database already
+found quote JPY in database already
+found : AUD-NZD in database already
+found base AUD in database already
+table created : NZD
+found : AUD-SGD in database already
+found base AUD in database already
+table created : SGD
+found : AUD-USD in database already
+found base AUD in database already
+found quote USD in database already
+found : CAD-CHF in database already
+found base CAD in database already
+found quote CHF in database already
+found : CAD-JPY in database already
+found base CAD in database already
+found quote JPY in database already
+found : CHF-JPY in database already
+found base CHF in database already
+found quote JPY in database already
+found : EUR-AUD in database already
+found quote AUD in database already
+found base EUR in database already
+found : EUR-CAD in database already
+found quote CAD in database already
+found base EUR in database already
+found : EUR-CHF in database already
+found quote CHF in database already
+found base EUR in database already
+found : EUR-GBP in database already
+found base EUR in database already
+found quote GBP in database already
+found : EUR-JPY in database already
+found base EUR in database already
+found quote JPY in database already
+found : EUR-NZD in database already
+found base EUR in database already
+found quote NZD in database already
+found : EUR-SGD in database already
+found base EUR in database already
+found quote SGD in database already
+found : EUR-USD in database already
+found base EUR in database already
+found quote USD in database already
+found : GBP-AUD in database already
+found quote AUD in database already
+found base GBP in database already
+found : GBP-CAD in database already
+found quote CAD in database already
+found base GBP in database already
+found : GBP-CHF in database already
+found quote CHF in database already
+found base GBP in database already
+found : GBP-JPY in database already
+found base GBP in database already
+found quote JPY in database already
+found : GBP-NZD in database already
+found base GBP in database already
+found quote NZD in database already
+found : GBP-SGD in database already
+found base GBP in database already
+found quote SGD in database already
+found : GBP-USD in database already
+found base GBP in database already
+found quote USD in database already
+found : NZD-CAD in database already
+found quote CAD in database already
+found base NZD in database already
+found : NZD-CHF in database already
+found quote CHF in database already
+found base NZD in database already
+found : NZD-JPY in database already
+found quote JPY in database already
+found base NZD in database already
+found : NZD-USD in database already
+found base NZD in database already
+found quote USD in database already
+found : USD-CAD in database already
+found quote CAD in database already
+found base USD in database already
+found : USD-CHF in database already
+found quote CHF in database already
+found base USD in database already
+found : USD-JPY in database already
+found quote JPY in database already
+found base USD in database already
+found : USD-SGD in database already
+found quote SGD in database already
+found base USD in database already
+found : SGD-JPY in database already
+found quote JPY in database already
+found base SGD in database already
+smash  AUD-CAD
+smash  AUD-CHF
+smash  AUD-JPY
+smash  AUD-NZD
+smash  AUD-SGD
+smash  AUD-USD
+smash  CAD-CHF
+smash  CAD-JPY
+smash  CHF-JPY
+smash  EUR-AUD
+smash  EUR-CAD
+smash  EUR-CHF
+smash  EUR-GBP
+smash  EUR-JPY
+smash  EUR-NZD
+smash  EUR-SGD
+smash  EUR-USD
+smash  GBP-AUD
+smash  GBP-CAD
+smash  GBP-CHF
+smash  GBP-JPY
+smash  GBP-NZD
+smash  GBP-SGD
+smash  GBP-USD
+smash  NZD-CAD
+smash  NZD-CHF
+smash  NZD-JPY
+smash  NZD-USD
+smash  USD-CAD
+smash  USD-CHF
+smash  USD-JPY
+smash  USD-SGD
+smash  SGD-JPY
+last t: [ 2022-07-18 23:08:11 ] AUD-CHF
+last t: [ 2022-07-18 23:08:11 ] CAD-JPY
+last t: [ 2022-07-18 23:08:09 ] AUD-JPY
+last t: [ 2022-07-18 23:08:10 ] CHF-JPY
+last t: [ 2022-07-18 23:08:09 ] EUR-USD
+last t: [ 2022-07-18 23:08:11 ] AUD-CAD
+last t: [ 2022-07-18 23:08:11 ] AUD-NZD
+last t: [ 2022-07-18 23:08:11 ] GBP-CAD
+last t: [ 2022-07-18 23:08:12 ] GBP-JPY
+last t: [ 2022-07-18 23:08:11 ] AUD-JPY
+last t: [ 2022-07-18 23:08:12 ] GBP-AUD
+last t: [ 2022-07-18 23:08:11 ] GBP-NZD
+last t: [ 2022-07-18 23:08:12 ] AUD-NZD
+last t: [ 2022-07-18 23:08:12 ] EUR-JPY
+AUD-NZD   7.0
+last t: [ 2022-07-18 23:08:12 ] GBP-SGD
+last t: [ 2022-07-18 23:08:12 ] AUD-USD
+last t: [ 2022-07-18 23:08:09 ] USD-SGD
+last t: [ 2022-07-18 23:08:09 ] USD-CHF
+last t: [ 2022-07-18 23:08:12 ] GBP-CHF
+last t: [ 2022-07-18 23:08:11 ] NZD-CAD
+last t: [ 2022-07-18 23:08:12 ] CHF-JPY
+last t: [ 2022-07-18 23:08:12 ] SGD-JPY
+last t: [ 2022-07-18 23:08:12 ] AUD-CAD
+AUD-CAD   -9.0
+last t: [ 2022-07-18 23:08:12 ] EUR-NZD
+last t: [ 2022-07-18 23:08:12 ] GBP-NZD
+GBP-NZD   -91.0
+last t: [ 2022-07-18 23:08:12 ] AUD-CHF
+AUD-CHF   -93.0
+last t: [ 2022-07-18 23:08:12 ] CAD-CHF
+last t: [ 2022-07-18 23:08:13 ] CAD-JPY
+last t: [ 2022-07-18 23:08:13 ] AUD-CAD
+CAD-JPY   4.0
+last t: [ 2022-07-18 23:08:13 ] GBP-JPY
+last t: [ 2022-07-18 23:08:13 ] NZD-CHF
+last t: [ 2022-07-18 23:08:13 ] NZD-JPY
+last t: [ 2022-07-18 23:08:13 ] CAD-CHF
+last t: [ 2022-07-18 23:08:13 ] GBP-USD
+last t: [ 2022-07-18 23:08:12 ] EUR-CHF
+last t: [ 2022-07-18 23:08:13 ] AUD-NZD
+last t: [ 2022-07-18 23:08:13 ] GBP-CHF
+last t: [ 2022-07-18 23:08:13 ] GBP-AUD
+last t: [ 2022-07-18 23:08:13 ] EUR-AUD
+last t: [ 2022-07-18 23:08:13 ] AUD-SGD
+last t: [ 2022-07-18 23:08:13 ] GBP-CAD
+GBP-JPY   -35.0
+last t: [ 2022-07-18 23:08:13 ] USD-CAD
+last t: [ 2022-07-18 23:08:14 ] GBP-AUD
+last t: [ 2022-07-18 23:08:14 ] AUD-CAD
+last t: [ 2022-07-18 23:08:13 ] EUR-CHF
+last t: [ 2022-07-18 23:08:14 ] GBP-CAD
+last t: [ 2022-07-18 23:08:14 ] EUR-USD
+last t: [ 2022-07-18 23:08:14 ] EUR-CHF
+last t: [ 2022-07-18 23:08:14 ] CAD-JPY
+GBP-CHF   -64.0
+last t: [ 2022-07-18 23:08:14 ] CHF-JPY
+GBP-AUD   86.0
+last t: [ 2022-07-18 23:08:15 ] GBP-CAD
+last t: [ 2022-07-18 23:08:14 ] USD-CHF
+last t: [ 2022-07-18 23:08:14 ] AUD-JPY
+last t: [ 2022-07-18 23:08:14 ] AUD-CHF
+last t: [ 2022-07-18 23:08:14 ] NZD-CHF
+last t: [ 2022-07-18 23:08:14 ] EUR-CAD
+last t: [ 2022-07-18 23:08:14 ] AUD-NZD
+last t: [ 2022-07-18 23:08:14 ] NZD-JPY
+last t: [ 2022-07-18 23:08:15 ] GBP-USD
+last t: [ 2022-07-18 23:08:15 ] GBP-SGD
+last t: [ 2022-07-18 23:08:14 ] SGD-JPY
+last t: [ 2022-07-18 23:08:15 ] CAD-JPY
+last t: [ 2022-07-18 23:08:15 ] GBP-AUD
+last t: [ 2022-07-18 23:08:15 ] GBP-JPY
+last t: [ 2022-07-18 23:08:15 ] EUR-CAD
+last t: [ 2022-07-18 23:08:15 ] NZD-USD
+last t: [ 2022-07-18 23:08:15 ] EUR-GBP
+last t: [ 2022-07-18 23:08:16 ] NZD-CAD
+last t: [ 2022-07-18 23:08:15 ] GBP-NZD
+last t: [ 2022-07-18 23:08:15 ] USD-CHF
+last t: [ 2022-07-18 23:08:16 ] AUD-NZD
+last t: [ 2022-07-18 23:08:16 ] NZD-USD
+last t: [ 2022-07-18 23:08:16 ] AUD-CHF
+last t: [ 2022-07-18 23:08:16 ] EUR-AUD
+last t: [ 2022-07-18 23:08:16 ] CHF-JPY
+last t: [ 2022-07-18 23:08:16 ] EUR-CHF
+last t: [ 2022-07-18 23:08:16 ] EUR-GBP
+last t: [ 2022-07-18 23:08:16 ] AUD-USD
+last t: [ 2022-07-18 23:08:16 ] AUD-SGD
+last t: [ 2022-07-18 23:08:16 ] SGD-JPY
+last t: [ 2022-07-18 23:08:16 ] USD-CHF
+last t: [ 2022-07-18 23:08:17 ] NZD-CAD
+EUR-USD   -1.0
+last t: [ 2022-07-18 23:08:17 ] CHF-JPY
+last t: [ 2022-07-18 23:08:16 ] GBP-SGD
+last t: [ 2022-07-18 23:08:17 ] NZD-JPY
+last t: [ 2022-07-18 23:08:17 ] USD-CAD
+last t: [ 2022-07-18 23:08:16 ] GBP-CHF
+last t: [ 2022-07-18 23:08:17 ] EUR-JPY
+last t: [ 2022-07-18 23:08:17 ] USD-JPY
+last t: [ 2022-07-18 23:08:17 ] AUD-CAD
+last t: [ 2022-07-18 23:08:17 ] AUD-CHF
+last t: [ 2022-07-18 23:08:17 ] SGD-JPY
+last t: [ 2022-07-18 23:08:18 ] AUD-SGD
+last t: [ 2022-07-18 23:08:17 ] AUD-NZD
+last t: [ 2022-07-18 23:08:17 ] EUR-AUD
+last t: [ 2022-07-18 23:08:18 ] NZD-JPY
+last t: [ 2022-07-18 23:08:18 ] AUD-JPY
+last t: [ 2022-07-18 23:08:18 ] EUR-SGD
+last t: [ 2022-07-18 23:08:18 ] EUR-AUD
+last t: [ 2022-07-18 23:08:18 ] NZD-USD
+last t: [ 2022-07-18 23:08:18 ] AUD-CAD
+last t: [ 2022-07-18 23:08:18 ] USD-JPY
+last t: [ 2022-07-18 23:08:18 ] CHF-JPY
+last t: [ 2022-07-18 23:08:18 ] GBP-CHF
+USD-CHF   -4.0
+last t: [ 2022-07-18 23:08:18 ] GBP-CAD
+AUD-CHF   94.0
+AUD-NZD   11.0
+last t: [ 2022-07-18 23:08:18 ] GBP-JPY
+last t: [ 2022-07-18 23:08:18 ] EUR-CHF
+last t: [ 2022-07-18 23:08:18 ] EUR-NZD
+last t: [ 2022-07-18 23:08:18 ] EUR-GBP
+last t: [ 2022-07-18 23:08:18 ] USD-CHF
+last t: [ 2022-07-18 23:08:18 ] GBP-USD
+last t: [ 2022-07-18 23:08:19 ] GBP-CHF
+last t: [ 2022-07-18 23:08:19 ] GBP-JPY
+last t: [ 2022-07-18 23:08:19 ] EUR-GBP
+last t: [ 2022-07-18 23:08:19 ] CHF-JPY
+last t: [ 2022-07-18 23:08:19 ] GBP-NZD
+last t: [ 2022-07-18 23:08:19 ] GBP-SGD
+last t: [ 2022-07-18 23:08:19 ] GBP-AUD
+last t: [ 2022-07-18 23:08:19 ] EUR-SGD
+last t: [ 2022-07-18 23:08:19 ] AUD-CAD
+last t: [ 2022-07-18 23:08:19 ] CAD-JPY
+last t: [ 2022-07-18 23:08:19 ] NZD-CAD
+last t: [ 2022-07-18 23:08:19 ] EUR-AUD
+last t: [ 2022-07-18 23:08:19 ] USD-CAD
+last t: [ 2022-07-18 23:08:19 ] AUD-CHF
+last t: [ 2022-07-18 23:08:19 ] USD-JPY
+last t: [ 2022-07-18 23:08:19 ] CAD-CHF
+last t: [ 2022-07-18 23:08:19 ] GBP-CAD
+last t: [ 2022-07-18 23:08:20 ] EUR-NZD
+last t: [ 2022-07-18 23:08:19 ] NZD-USD
+last t: [ 2022-07-18 23:08:20 ] EUR-GBP
+last t: [ 2022-07-18 23:08:20 ] GBP-JPY
+last t: [ 2022-07-18 23:08:20 ] CAD-JPY
+last t: [ 2022-07-18 23:08:20 ] USD-JPY
+last t: [ 2022-07-18 23:08:20 ] EUR-JPY
+GBP-USD   1.0
+last t: [ 2022-07-18 23:08:20 ] USD-CAD
+CAD-JPY   -24.0
+last t: [ 2022-07-18 23:08:20 ] EUR-CAD
+last t: [ 2022-07-18 23:08:20 ] GBP-AUD
+last t: [ 2022-07-18 23:08:20 ] SGD-JPY
+last t: [ 2022-07-18 23:08:20 ] USD-SGD
+last t: [ 2022-07-18 23:08:20 ] GBP-CHF
+last t: [ 2022-07-18 23:08:20 ] AUD-NZD
+last t: [ 2022-07-18 23:08:20 ] NZD-CHF
+last t: [ 2022-07-18 23:08:21 ] GBP-USD
+GBP-JPY   -40.0
+last t: [ 2022-07-18 23:08:21 ] GBP-SGD
+GBP-NZD   90.0
+last t: [ 2022-07-18 23:08:21 ] AUD-JPY
+AUD-NZD   -4.0
+last t: [ 2022-07-18 23:08:20 ] NZD-JPY
+EUR-AUD   8.0
+last t: [ 2022-07-18 23:08:21 ] SGD-JPY
+last t: [ 2022-07-18 23:08:21 ] GBP-CHF
+last t: [ 2022-07-18 23:08:21 ] GBP-AUD
+last t: [ 2022-07-18 23:08:20 ] AUD-CAD
+last t: [ 2022-07-18 23:08:21 ] USD-JPY
+last t: [ 2022-07-18 23:08:21 ] EUR-JPY
+EUR-CHF   10.0
+SGD-JPY   -3.0
+NZD-CAD   1.0
+GBP-SGD   -1.0
+last t: [ 2022-07-18 23:08:21 ] NZD-JPY
+AUD-CHF   -7.0
+last t: [ 2022-07-18 23:08:21 ] GBP-CAD
+AUD-NZD   -1.0
+last t: [ 2022-07-18 23:08:21 ] NZD-USD
+NZD-USD   -14.0
+last t: [ 2022-07-18 23:08:21 ] USD-CAD
+last t: [ 2022-07-18 23:08:21 ] EUR-CAD
+last t: [ 2022-07-18 23:08:22 ] AUD-NZD
+last t: [ 2022-07-18 23:08:22 ] NZD-USD
+last t: [ 2022-07-18 23:08:22 ] AUD-CHF
+last t: [ 2022-07-18 23:08:22 ] CHF-JPY
+last t: [ 2022-07-18 23:08:22 ] EUR-NZD
+last t: [ 2022-07-18 23:08:22 ] EUR-JPY
+last t: [ 2022-07-18 23:08:22 ] USD-JPY
+last t: [ 2022-07-18 23:08:22 ] GBP-JPY
+last t: [ 2022-07-18 23:08:22 ] USD-CHF
+last t: [ 2022-07-18 23:08:22 ] CAD-CHF
+last t: [ 2022-07-18 23:08:22 ] EUR-CAD
+last t: [ 2022-07-18 23:08:22 ] EUR-AUD
+last t: [ 2022-07-18 23:08:22 ] USD-CAD
+last t: [ 2022-07-18 23:08:22 ] EUR-SGD
+last t: [ 2022-07-18 23:08:22 ] NZD-CAD
+last t: [ 2022-07-18 23:08:23 ] AUD-JPY
+last t: [ 2022-07-18 23:08:22 ] AUD-CAD
+last t: [ 2022-07-18 23:08:23 ] CAD-JPY
+last t: [ 2022-07-18 23:08:23 ] AUD-CHF
+last t: [ 2022-07-18 23:08:22 ] GBP-CHF
+last t: [ 2022-07-18 23:08:23 ] GBP-NZD
+USD-JPY   -1.0
+last t: [ 2022-07-18 23:08:23 ] GBP-JPY
+last t: [ 2022-07-18 23:08:23 ] NZD-CHF
+last t: [ 2022-07-18 23:08:23 ] GBP-CAD
+last t: [ 2022-07-18 23:08:23 ] EUR-JPY
+last t: [ 2022-07-18 23:08:23 ] EUR-NZD
+last t: [ 2022-07-18 23:08:23 ] GBP-USD
+last t: [ 2022-07-18 23:08:23 ] AUD-CAD
+last t: [ 2022-07-18 23:08:23 ] AUD-NZD
+last t: [ 2022-07-18 23:08:24 ] AUD-CAD
+last t: [ 2022-07-18 23:08:24 ] GBP-CAD
+GBP-CHF   -63.0
+EUR-NZD   134.0
+last t: [ 2022-07-18 23:08:24 ] EUR-GBP
+GBP-NZD   3.0
+last t: [ 2022-07-18 23:08:24 ] CHF-JPY
+GBP-AUD   83.0
+last t: [ 2022-07-18 23:08:24 ] AUD-USD
+AUD-CAD   7.0
+NZD-CAD   3.0
+last t: [ 2022-07-18 23:08:24 ] EUR-AUD
+last t: [ 2022-07-18 23:08:24 ] AUD-SGD
+USD-CAD   20.0
+last t: [ 2022-07-18 23:08:24 ] USD-JPY
+last t: [ 2022-07-18 23:08:24 ] AUD-CHF
+last t: [ 2022-07-18 23:08:24 ] GBP-CHF
+last t: [ 2022-07-18 23:08:24 ] AUD-JPY
+last t: [ 2022-07-18 23:08:24 ] AUD-NZD
+last t: [ 2022-07-18 23:08:24 ] EUR-JPY
+last t: [ 2022-07-18 23:08:24 ] CAD-CHF
+last t: [ 2022-07-18 23:08:25 ] GBP-CHF
+last t: [ 2022-07-18 23:08:25 ] USD-CAD
+last t: [ 2022-07-18 23:08:25 ] AUD-NZD
+last t: [ 2022-07-18 23:08:25 ] NZD-CAD
+last t: [ 2022-07-18 23:08:26 ] EUR-GBP
+last t: [ 2022-07-18 23:08:25 ] USD-CHF
+last t: [ 2022-07-18 23:08:26 ] CHF-JPY
+last t: [ 2022-07-18 23:08:26 ] AUD-JPY
+last t: [ 2022-07-18 23:08:26 ] GBP-CHF
+last t: [ 2022-07-18 23:08:26 ] EUR-AUD
+last t: [ 2022-07-18 23:08:27 ] NZD-USD
+last t: [ 2022-07-18 23:08:27 ] USD-JPY
+last t: [ 2022-07-18 23:08:27 ] AUD-CAD
+last t: [ 2022-07-18 23:08:27 ] EUR-GBP
+last t: [ 2022-07-18 23:08:28 ] NZD-CHF
+last t: [ 2022-07-18 23:08:28 ] GBP-NZD
+last t: [ 2022-07-18 23:08:28 ] AUD-NZD
+last t: [ 2022-07-18 23:08:28 ] EUR-NZD
+last t: [ 2022-07-18 23:08:27 ] NZD-CAD
+last t: [ 2022-07-18 23:08:28 ] CHF-JPY
+last t: [ 2022-07-18 23:08:28 ] CAD-JPY
+last t: [ 2022-07-18 23:08:28 ] EUR-JPY
+last t: [ 2022-07-18 23:08:29 ] NZD-JPY
+USD-JPY   -2.0
+last t: [ 2022-07-18 23:08:29 ] GBP-CAD
+GBP-CAD   -98.0
+last t: [ 2022-07-18 23:08:29 ] SGD-JPY
+NZD-USD   18.0
+last t: [ 2022-07-18 23:08:28 ] NZD-CAD
+CAD-JPY   -7.0
+EUR-CAD   -4.0
+last t: [ 2022-07-18 23:08:29 ] GBP-AUD
+USD-SGD   -23.0
+AUD-NZD   -6.0
+last t: [ 2022-07-18 23:08:29 ] EUR-GBP
+last t: [ 2022-07-18 23:08:29 ] GBP-USD
+last t: [ 2022-07-18 23:08:29 ] AUD-CAD
+last t: [ 2022-07-18 23:08:29 ] AUD-CHF
+last t: [ 2022-07-18 23:08:29 ] GBP-SGD
+last t: [ 2022-07-18 23:08:29 ] EUR-JPY
+last t: [ 2022-07-18 23:08:29 ] AUD-USD
+last t: [ 2022-07-18 23:08:29 ] EUR-SGD
+last t: [ 2022-07-18 23:08:29 ] USD-JPY
+last t: [ 2022-07-18 23:08:29 ] AUD-JPY
+last t: [ 2022-07-18 23:08:29 ] GBP-CHF
+last t: [ 2022-07-18 23:08:29 ] EUR-CHF
+last t: [ 2022-07-18 23:08:29 ] EUR-USD
+last t: [ 2022-07-18 23:08:29 ] AUD-NZD
+last t: [ 2022-07-18 23:08:29 ] GBP-NZD
+last t: [ 2022-07-18 23:08:30 ] AUD-CAD
+last t: [ 2022-07-18 23:08:30 ] AUD-CHF
+last t: [ 2022-07-18 23:08:30 ] AUD-JPY
+last t: [ 2022-07-18 23:08:30 ] USD-CHF
+last t: [ 2022-07-18 23:08:30 ] NZD-JPY
+last t: [ 2022-07-18 23:08:30 ] AUD-USD
+last t: [ 2022-07-18 23:08:30 ] EUR-AUD
+last t: [ 2022-07-18 23:08:30 ] EUR-SGD
+last t: [ 2022-07-18 23:08:30 ] CAD-JPY
+last t: [ 2022-07-18 23:08:30 ] AUD-NZD
+last t: [ 2022-07-18 23:08:30 ] USD-SGD
+last t: [ 2022-07-18 23:08:30 ] SGD-JPY
+last t: [ 2022-07-18 23:08:31 ] AUD-CAD
+last t: [ 2022-07-18 23:08:31 ] GBP-CHF
+last t: [ 2022-07-18 23:08:31 ] EUR-GBP
+last t: [ 2022-07-18 23:08:31 ] GBP-USD
+last t: [ 2022-07-18 23:08:31 ] GBP-SGD
+last t: [ 2022-07-18 23:08:31 ] GBP-CAD
+last t: [ 2022-07-18 23:08:31 ] NZD-JPY
+last t: [ 2022-07-18 23:08:31 ] GBP-NZD
+last t: [ 2022-07-18 23:08:31 ] EUR-JPY
+last t: [ 2022-07-18 23:08:31 ] CAD-JPY
+last t: [ 2022-07-18 23:08:32 ] SGD-JPY
+last t: [ 2022-07-18 23:08:32 ] GBP-AUD
+last t: [ 2022-07-18 23:08:32 ] GBP-CHF
+last t: [ 2022-07-18 23:08:32 ] EUR-GBP
+last t: [ 2022-07-18 23:08:32 ] NZD-JPY
+GBP-USD   -8.0
+last t: [ 2022-07-18 23:08:32 ] EUR-NZD
+AUD-JPY   3.0
+last t: [ 2022-07-18 23:08:32 ] USD-JPY
+last t: [ 2022-07-18 23:08:32 ] AUD-JPY
+last t: [ 2022-07-18 23:08:32 ] NZD-CHF
+last t: [ 2022-07-18 23:08:32 ] GBP-JPY
+last t: [ 2022-07-18 23:08:32 ] NZD-CAD
+last t: [ 2022-07-18 23:08:33 ] EUR-JPY
+GBP-CHF   -63.0
+AUD-CAD   -44.0
+last t: [ 2022-07-18 23:08:32 ] AUD-CHF
+last t: [ 2022-07-18 23:08:33 ] AUD-NZD
+last t: [ 2022-07-18 23:08:33 ] GBP-JPY
+last t: [ 2022-07-18 23:08:33 ] CHF-JPY
+last t: [ 2022-07-18 23:08:33 ] USD-JPY
+last t: [ 2022-07-18 23:08:33 ] NZD-CHF
+last t: [ 2022-07-18 23:08:33 ] AUD-CHF
+EUR-JPY   -2.0
+last t: [ 2022-07-18 23:08:33 ] USD-CAD
+last t: [ 2022-07-18 23:08:33 ] GBP-AUD
+EUR-CAD   4.0
+last t: [ 2022-07-18 23:08:33 ] SGD-JPY
+NZD-USD   14.0
+last t: [ 2022-07-18 23:08:33 ] NZD-USD
+last t: [ 2022-07-18 23:08:33 ] CAD-JPY
+last t: [ 2022-07-18 23:08:34 ] AUD-CAD
+last t: [ 2022-07-18 23:08:34 ] AUD-USD
+last t: [ 2022-07-18 23:08:34 ] SGD-JPY
+last t: [ 2022-07-18 23:08:34 ] AUD-NZD
+CHF-JPY   38.0
+last t: [ 2022-07-18 23:08:33 ] EUR-CAD
+last t: [ 2022-07-18 23:08:34 ] USD-CAD
+last t: [ 2022-07-18 23:08:34 ] AUD-CHF
+last t: [ 2022-07-18 23:08:34 ] EUR-GBP
+last t: [ 2022-07-18 23:08:34 ] EUR-SGD
+last t: [ 2022-07-18 23:08:34 ] NZD-USD
+last t: [ 2022-07-18 23:08:34 ] GBP-CAD
+last t: [ 2022-07-18 23:08:34 ] GBP-NZD
+last t: [ 2022-07-18 23:08:34 ] EUR-CHF
+last t: [ 2022-07-18 23:08:34 ] GBP-AUD
+last t: [ 2022-07-18 23:08:34 ] CAD-JPY
+last t: [ 2022-07-18 23:08:34 ] AUD-JPY
+last t: [ 2022-07-18 23:08:34 ] CAD-CHF
+last t: [ 2022-07-18 23:08:34 ] EUR-NZD
+last t: [ 2022-07-18 23:08:34 ] NZD-CAD
+last t: [ 2022-07-18 23:08:34 ] EUR-AUD
+last t: [ 2022-07-18 23:08:35 ] EUR-NZD
+last t: [ 2022-07-18 23:08:35 ] NZD-JPY
+USD-CHF   -30.0
+last t: [ 2022-07-18 23:08:35 ] GBP-NZD
+last t: [ 2022-07-18 23:08:35 ] EUR-AUD
+EUR-CAD   -4.0
+EUR-SGD   -20.0
+AUD-CHF   -94.0
+last t: [ 2022-07-18 23:08:35 ] EUR-CAD
+GBP-NZD   -93.0
+last t: [ 2022-07-18 23:08:35 ] AUD-NZD
+last t: [ 2022-07-18 23:08:35 ] CAD-JPY
+last t: [ 2022-07-18 23:08:35 ] NZD-CHF
+last t: [ 2022-07-18 23:08:36 ] AUD-CAD
+last t: [ 2022-07-18 23:08:36 ] EUR-USD
+last t: [ 2022-07-18 23:08:35 ] EUR-CHF
+last t: [ 2022-07-18 23:08:36 ] NZD-USD
+last t: [ 2022-07-18 23:08:36 ] USD-CHF
+EUR-JPY   5.0
+last t: [ 2022-07-18 23:08:36 ] NZD-CHF
+AUD-CAD   9.0
+last t: [ 2022-07-18 23:08:36 ] EUR-CHF
+last t: [ 2022-07-18 23:08:36 ] CHF-JPY
+last t: [ 2022-07-18 23:08:37 ] EUR-NZD
+last t: [ 2022-07-18 23:08:37 ] GBP-USD
+last t: [ 2022-07-18 23:08:37 ] CAD-JPY
+last t: [ 2022-07-18 23:08:37 ] GBP-SGD
+EUR-GBP   49.0
+EUR-AUD   -8.0
+AUD-CHF   86.0
+last t: [ 2022-07-18 23:08:37 ] EUR-SGD
+AUD-NZD   1.0
+AUD-NZD   -11.0
+last t: [ 2022-07-18 23:08:37 ] GBP-CAD
+last t: [ 2022-07-18 23:08:37 ] NZD-USD
+last t: [ 2022-07-18 23:08:37 ] GBP-NZD
+last t: [ 2022-07-18 23:08:37 ] EUR-CAD
+last t: [ 2022-07-18 23:08:37 ] EUR-AUD
+last t: [ 2022-07-18 23:08:37 ] EUR-USD
+last t: [ 2022-07-18 23:08:38 ] AUD-CAD
+last t: [ 2022-07-18 23:08:38 ] EUR-NZD
+last t: [ 2022-07-18 23:08:38 ] NZD-USD
+last t: [ 2022-07-18 23:08:38 ] AUD-JPY
+last t: [ 2022-07-18 23:08:38 ] GBP-JPY
+EUR-GBP   -15.0
+last t: [ 2022-07-18 23:08:38 ] GBP-AUD
+AUD-JPY   -26.0
+last t: [ 2022-07-18 23:08:38 ] EUR-SGD
+NZD-USD   -45.0
+last t: [ 2022-07-18 23:08:38 ] GBP-CAD
+last t: [ 2022-07-18 23:08:38 ] EUR-GBP
+last t: [ 2022-07-18 23:08:38 ] EUR-CHF
+last t: [ 2022-07-18 23:08:38 ] GBP-NZD
+last t: [ 2022-07-18 23:08:38 ] AUD-SGD
+last t: [ 2022-07-18 23:08:38 ] USD-CAD
+last t: [ 2022-07-18 23:08:39 ] CHF-JPY
+last t: [ 2022-07-18 23:08:38 ] USD-JPY
+last t: [ 2022-07-18 23:08:38 ] SGD-JPY
+last t: [ 2022-07-18 23:08:38 ] AUD-USD
+last t: [ 2022-07-18 23:08:39 ] NZD-USD
+last t: [ 2022-07-18 23:08:39 ] GBP-SGD
+last t: [ 2022-07-18 23:08:39 ] EUR-GBP
+last t: [ 2022-07-18 23:08:39 ] EUR-AUD
+last t: [ 2022-07-18 23:08:39 ] GBP-NZD
+EUR-GBP   -34.0
+last t: [ 2022-07-18 23:08:39 ] NZD-CAD
+GBP-NZD   91.0
+last t: [ 2022-07-18 23:08:39 ] AUD-CHF
+last t: [ 2022-07-18 23:08:39 ] AUD-SGD
+last t: [ 2022-07-18 23:08:39 ] EUR-JPY
+last t: [ 2022-07-18 23:08:39 ] AUD-CAD
+last t: [ 2022-07-18 23:08:39 ] EUR-CAD
+last t: [ 2022-07-18 23:08:39 ] USD-JPY
+last t: [ 2022-07-18 23:08:39 ] AUD-USD
+CHF-JPY   5.0
+last t: [ 2022-07-18 23:08:39 ] USD-CAD
+last t: [ 2022-07-18 23:08:39 ] USD-SGD
+last t: [ 2022-07-18 23:08:39 ] GBP-JPY
+last t: [ 2022-07-18 23:08:39 ] GBP-CHF
+last t: [ 2022-07-18 23:08:39 ] SGD-JPY
+last t: [ 2022-07-18 23:08:39 ] EUR-SGD
+EUR-JPY   13.0
+SGD-JPY   -46.0
+GBP-AUD   87.0
+last t: [ 2022-07-18 23:08:39 ] EUR-USD
+last t: [ 2022-07-18 23:08:40 ] USD-CHF
+last t: [ 2022-07-18 23:08:40 ] EUR-AUD
+last t: [ 2022-07-18 23:08:39 ] CAD-CHF
+last t: [ 2022-07-18 23:08:40 ] USD-JPY
+last t: [ 2022-07-18 23:08:40 ] AUD-SGD
+last t: [ 2022-07-18 23:08:40 ] NZD-CAD
+last t: [ 2022-07-18 23:08:40 ] CHF-JPY
+last t: [ 2022-07-18 23:08:40 ] GBP-SGD
+last t: [ 2022-07-18 23:08:40 ] AUD-CHF
+last t: [ 2022-07-18 23:08:40 ] USD-SGD
+last t: [ 2022-07-18 23:08:40 ] AUD-CAD
+last t: [ 2022-07-18 23:08:40 ] GBP-NZD
+last t: [ 2022-07-18 23:08:40 ] EUR-CHF
+last t: [ 2022-07-18 23:08:40 ] EUR-NZD
+last t: [ 2022-07-18 23:08:40 ] USD-CAD
+last t: [ 2022-07-18 23:08:40 ] GBP-JPY
+last t: [ 2022-07-18 23:08:40 ] AUD-NZD
+last t: [ 2022-07-18 23:08:40 ] CAD-JPY
+last t: [ 2022-07-18 23:08:40 ] EUR-JPY
+last t: [ 2022-07-18 23:08:40 ] AUD-USD
+last t: [ 2022-07-18 23:08:41 ] NZD-USD
+last t: [ 2022-07-18 23:08:41 ] EUR-CHF
+last t: [ 2022-07-18 23:08:41 ] GBP-USD
+last t: [ 2022-07-18 23:08:41 ] USD-CHF
+last t: [ 2022-07-18 23:08:41 ] EUR-NZD
+last t: [ 2022-07-18 23:08:41 ] EUR-AUD
+GBP-USD   1.0
+AUD-CHF   7.0
+EUR-SGD   19.0
+last t: [ 2022-07-18 23:08:41 ] NZD-JPY
+last t: [ 2022-07-18 23:08:41 ] AUD-NZD
+AUD-JPY   29.0
+AUD-NZD   6.0
+last t: [ 2022-07-18 23:08:41 ] AUD-SGD
+EUR-AUD   82.0
+last t: [ 2022-07-18 23:08:41 ] AUD-CAD
+last t: [ 2022-07-18 23:08:42 ] GBP-CHF
+last t: [ 2022-07-18 23:08:42 ] AUD-JPY
+USD-SGD   24.0
+AUD-CAD   -46.0
+last t: [ 2022-07-18 23:08:41 ] CAD-CHF
+last t: [ 2022-07-18 23:08:42 ] AUD-NZD
+last t: [ 2022-07-18 23:08:42 ] USD-JPY
+last t: [ 2022-07-18 23:08:42 ] GBP-JPY
+EUR-GBP   -14.0
+last t: [ 2022-07-18 23:08:42 ] NZD-CAD
+last t: [ 2022-07-18 23:08:42 ] EUR-GBP
+last t: [ 2022-07-18 23:08:42 ] EUR-JPY
+last t: [ 2022-07-18 23:08:42 ] GBP-NZD
+last t: [ 2022-07-18 23:08:42 ] GBP-CAD
+last t: [ 2022-07-18 23:08:42 ] EUR-NZD
+EUR-JPY   -3.0
+last t: [ 2022-07-18 23:08:43 ] AUD-CHF
+GBP-AUD   -87.0
+last t: [ 2022-07-18 23:08:43 ] AUD-CAD
+last t: [ 2022-07-18 23:08:43 ] GBP-CAD
+last t: [ 2022-07-18 23:08:43 ] GBP-JPY
+last t: [ 2022-07-18 23:08:43 ] GBP-CHF
+last t: [ 2022-07-18 23:08:43 ] NZD-CHF
+last t: [ 2022-07-18 23:08:43 ] GBP-AUD
+last t: [ 2022-07-18 23:08:44 ] EUR-CAD
+EUR-GBP   -34.0
+last t: [ 2022-07-18 23:08:44 ] AUD-CHF
+EUR-NZD   -134.0
+last t: [ 2022-07-18 23:08:44 ] GBP-NZD
+NZD-CHF   59.0
+last t: [ 2022-07-18 23:08:44 ] AUD-CAD
+NZD-CAD   8.0
+AUD-CHF   -93.0
+last t: [ 2022-07-18 23:08:44 ] USD-JPY
+last t: [ 2022-07-18 23:08:44 ] AUD-USD
+last t: [ 2022-07-18 23:08:44 ] CHF-JPY
+last t: [ 2022-07-18 23:08:44 ] EUR-GBP
+last t: [ 2022-07-18 23:08:44 ] EUR-AUD
+last t: [ 2022-07-18 23:08:44 ] NZD-USD
+last t: [ 2022-07-18 23:08:44 ] GBP-JPY
+last t: [ 2022-07-18 23:08:44 ] NZD-JPY
+last t: [ 2022-07-18 23:08:44 ] USD-CAD
+last t: [ 2022-07-18 23:08:44 ] AUD-SGD
+last t: [ 2022-07-18 23:08:44 ] GBP-AUD
+last t: [ 2022-07-18 23:08:45 ] GBP-NZD
+last t: [ 2022-07-18 23:08:45 ] EUR-GBP
+last t: [ 2022-07-18 23:08:45 ] EUR-AUD
+last t: [ 2022-07-18 23:08:45 ] GBP-JPY
+last t: [ 2022-07-18 23:08:45 ] CHF-JPY
+last t: [ 2022-07-18 23:08:45 ] NZD-USD
+last t: [ 2022-07-18 23:08:45 ] EUR-CAD
+last t: [ 2022-07-18 23:08:45 ] EUR-NZD
+last t: [ 2022-07-18 23:08:45 ] AUD-NZD
+last t: [ 2022-07-18 23:08:45 ] EUR-SGD
+last t: [ 2022-07-18 23:08:45 ] USD-CHF
+last t: [ 2022-07-18 23:08:45 ] AUD-JPY
+last t: [ 2022-07-18 23:08:45 ] EUR-USD
+last t: [ 2022-07-18 23:08:45 ] GBP-AUD
+last t: [ 2022-07-18 23:08:45 ] USD-SGD
+last t: [ 2022-07-18 23:08:45 ] USD-CAD
+last t: [ 2022-07-18 23:08:45 ] SGD-JPY
+last t: [ 2022-07-18 23:08:45 ] GBP-USD
+last t: [ 2022-07-18 23:08:45 ] AUD-CAD
+last t: [ 2022-07-18 23:08:45 ] USD-JPY
+last t: [ 2022-07-18 23:08:45 ] AUD-SGD
+USD-JPY   1.0
+USD-CAD   21.0
+AUD-CAD   46.0
+EUR-CAD   4.0
+last t: [ 2022-07-18 23:08:45 ] CAD-CHF
+AUD-CHF   25.0
+last t: [ 2022-07-18 23:08:46 ] SGD-JPY
+last t: [ 2022-07-18 23:08:46 ] CHF-JPY
+EUR-CHF   -10.0
+last t: [ 2022-07-18 23:08:46 ] GBP-JPY
+CAD-JPY   4.0
+NZD-CAD   -8.0
+NZD-JPY   10.0
+last t: [ 2022-07-18 23:08:46 ] GBP-CHF
+EUR-CAD   -4.0
+last t: [ 2022-07-18 23:08:46 ] EUR-JPY
+CAD-JPY   -24.0
+last t: [ 2022-07-18 23:08:46 ] AUD-CHF
+last t: [ 2022-07-18 23:08:46 ] GBP-USD
+last t: [ 2022-07-18 23:08:46 ] EUR-USD
+last t: [ 2022-07-18 23:08:46 ] NZD-CHF
+last t: [ 2022-07-18 23:08:46 ] GBP-AUD
+last t: [ 2022-07-18 23:08:46 ] EUR-CHF
+last t: [ 2022-07-18 23:08:46 ] GBP-SGD
+last t: [ 2022-07-18 23:08:46 ] NZD-JPY
+last t: [ 2022-07-18 23:08:46 ] EUR-CAD
+last t: [ 2022-07-18 23:08:46 ] AUD-NZD
+last t: [ 2022-07-18 23:08:46 ] EUR-NZD
+last t: [ 2022-07-18 23:08:46 ] USD-CAD
+last t: [ 2022-07-18 23:08:47 ] CAD-JPY
+last t: [ 2022-07-18 23:08:47 ] NZD-JPY
+last t: [ 2022-07-18 23:08:47 ] CHF-JPY
+last t: [ 2022-07-18 23:08:46 ] CAD-CHF
+last t: [ 2022-07-18 23:08:46 ] NZD-CAD
+last t: [ 2022-07-18 23:08:47 ] AUD-USD
+last t: [ 2022-07-18 23:08:47 ] EUR-JPY
+EUR-USD   1.0
+last t: [ 2022-07-18 23:08:47 ] SGD-JPY
+last t: [ 2022-07-18 23:08:47 ] AUD-CHF
+last t: [ 2022-07-18 23:08:47 ] GBP-SGD
+last t: [ 2022-07-18 23:08:47 ] USD-JPY
+last t: [ 2022-07-18 23:08:48 ] NZD-JPY
+last t: [ 2022-07-18 23:08:48 ] GBP-JPY
+CHF-JPY   -35.0
+last t: [ 2022-07-18 23:08:48 ] EUR-CAD
+last t: [ 2022-07-18 23:08:48 ] GBP-NZD
+last t: [ 2022-07-18 23:08:48 ] CHF-JPY
+last t: [ 2022-07-18 23:08:48 ] EUR-AUD
+last t: [ 2022-07-18 23:08:48 ] AUD-USD
+last t: [ 2022-07-18 23:08:48 ] EUR-CHF
+last t: [ 2022-07-18 23:08:48 ] EUR-NZD
+last t: [ 2022-07-18 23:08:48 ] GBP-CHF
+last t: [ 2022-07-18 23:08:49 ] GBP-CAD
+last t: [ 2022-07-18 23:08:49 ] AUD-NZD
+last t: [ 2022-07-18 23:08:49 ] NZD-JPY
+last t: [ 2022-07-18 23:08:49 ] GBP-SGD
+last t: [ 2022-07-18 23:08:49 ] GBP-USD
+last t: [ 2022-07-18 23:08:49 ] EUR-NZD
+last t: [ 2022-07-18 23:08:49 ] USD-JPY
+last t: [ 2022-07-18 23:08:49 ] EUR-GBP
+last t: [ 2022-07-18 23:08:49 ] EUR-JPY
+last t: [ 2022-07-18 23:08:49 ] GBP-NZD
+last t: [ 2022-07-18 23:08:49 ] CHF-JPY
+last t: [ 2022-07-18 23:08:49 ] CAD-JPY
+last t: [ 2022-07-18 23:08:49 ] AUD-JPY
+last t: [ 2022-07-18 23:08:49 ] EUR-CHF
+last t: [ 2022-07-18 23:08:49 ] AUD-CAD
+last t: [ 2022-07-18 23:08:49 ] AUD-CHF
+last t: [ 2022-07-18 23:08:49 ] GBP-CHF
+last t: [ 2022-07-18 23:08:50 ] AUD-SGD
+last t: [ 2022-07-18 23:08:50 ] GBP-NZD
+last t: [ 2022-07-18 23:08:50 ] EUR-SGD
+last t: [ 2022-07-18 23:08:50 ] GBP-CHF
+last t: [ 2022-07-18 23:08:50 ] AUD-JPY
+last t: [ 2022-07-18 23:08:50 ] GBP-CAD
+last t: [ 2022-07-18 23:08:50 ] USD-JPY
+last t: [ 2022-07-18 23:08:50 ] NZD-CAD
+last t: [ 2022-07-18 23:08:50 ] USD-CAD
+last t: [ 2022-07-18 23:08:50 ] GBP-SGD
+last t: [ 2022-07-18 23:08:50 ] AUD-NZD
+last t: [ 2022-07-18 23:08:50 ] GBP-JPY
+last t: [ 2022-07-18 23:08:51 ] USD-CHF
+last t: [ 2022-07-18 23:08:51 ] EUR-GBP
+last t: [ 2022-07-18 23:08:51 ] NZD-JPY
+GBP-USD   1.0
+GBP-SGD   1.0
+last t: [ 2022-07-18 23:08:51 ] GBP-SGD
+GBP-CAD   1.0
+last t: [ 2022-07-18 23:08:51 ] GBP-AUD
+GBP-NZD   2.0
+EUR-NZD   -14.0
+last t: [ 2022-07-18 23:08:51 ] CHF-JPY
+last t: [ 2022-07-18 23:08:51 ] GBP-NZD
+last t: [ 2022-07-18 23:08:52 ] NZD-JPY
+last t: [ 2022-07-18 23:08:52 ] USD-JPY
+last t: [ 2022-07-18 23:08:52 ] EUR-JPY
+last t: [ 2022-07-18 23:08:52 ] CAD-JPY
+last t: [ 2022-07-18 23:08:53 ] CAD-CHF
+GBP-JPY   75.0
+EUR-SGD   -1.0
+last t: [ 2022-07-18 23:08:53 ] AUD-NZD
+last t: [ 2022-07-18 23:08:53 ] SGD-JPY
+last t: [ 2022-07-18 23:08:52 ] EUR-NZD
+last t: [ 2022-07-18 23:08:53 ] CHF-JPY
+last t: [ 2022-07-18 23:08:53 ] GBP-JPY
+EUR-GBP   50.0
+SGD-JPY   45.0
+NZD-USD   -14.0
+last t: [ 2022-07-18 23:08:53 ] USD-CHF
+last t: [ 2022-07-18 23:08:53 ] NZD-JPY
+last t: [ 2022-07-18 23:08:53 ] AUD-JPY
+last t: [ 2022-07-18 23:08:53 ] NZD-CAD
+last t: [ 2022-07-18 23:08:53 ] GBP-AUD
+last t: [ 2022-07-18 23:08:53 ] EUR-NZD
+last t: [ 2022-07-18 23:08:53 ] EUR-USD
+last t: [ 2022-07-18 23:08:53 ] GBP-NZD
+EUR-GBP   -50.0
+last t: [ 2022-07-18 23:08:53 ] USD-JPY
+NZD-CAD   7.0
+last t: [ 2022-07-18 23:08:53 ] EUR-SGD
+last t: [ 2022-07-18 23:08:53 ] EUR-JPY
+last t: [ 2022-07-18 23:08:53 ] AUD-CHF
+last t: [ 2022-07-18 23:08:53 ] NZD-CHF
+last t: [ 2022-07-18 23:08:54 ] GBP-CAD
+last t: [ 2022-07-18 23:08:54 ] AUD-CAD
+EUR-JPY   5.0
+last t: [ 2022-07-18 23:08:54 ] NZD-CAD
+last t: [ 2022-07-18 23:08:54 ] CAD-JPY
+USD-CAD   -16.0
+last t: [ 2022-07-18 23:08:54 ] SGD-JPY
+last t: [ 2022-07-18 23:08:54 ] GBP-USD
+last t: [ 2022-07-18 23:08:54 ] USD-JPY
+last t: [ 2022-07-18 23:08:54 ] EUR-NZD
+last t: [ 2022-07-18 23:08:54 ] CAD-CHF
+last t: [ 2022-07-18 23:08:54 ] EUR-GBP
+last t: [ 2022-07-18 23:08:54 ] CHF-JPY
+last t: [ 2022-07-18 23:08:54 ] EUR-AUD
+last t: [ 2022-07-18 23:08:54 ] EUR-USD
+last t: [ 2022-07-18 23:08:54 ] EUR-CHF
+GBP-JPY   -75.0
+last t: [ 2022-07-18 23:08:54 ] GBP-SGD
+EUR-SGD   1.0
+last t: [ 2022-07-18 23:08:54 ] USD-SGD
+last t: [ 2022-07-18 23:08:54 ] NZD-JPY
+last t: [ 2022-07-18 23:08:54 ] EUR-SGD
+last t: [ 2022-07-18 23:08:54 ] GBP-AUD
+last t: [ 2022-07-18 23:08:55 ] GBP-CAD
+last t: [ 2022-07-18 23:08:54 ] AUD-USD
+last t: [ 2022-07-18 23:08:54 ] GBP-JPY
+last t: [ 2022-07-18 23:08:55 ] CAD-JPY
+last t: [ 2022-07-18 23:08:55 ] GBP-SGD
+last t: [ 2022-07-18 23:08:55 ] NZD-JPY
+last t: [ 2022-07-18 23:08:55 ] AUD-NZD
+last t: [ 2022-07-18 23:08:55 ] NZD-USD
+last t: [ 2022-07-18 23:08:55 ] GBP-AUD
+last t: [ 2022-07-18 23:08:55 ] USD-CAD
+last t: [ 2022-07-18 23:08:55 ] EUR-CAD
+last t: [ 2022-07-18 23:08:55 ] CHF-JPY
+last t: [ 2022-07-18 23:08:55 ] EUR-USD
+last t: [ 2022-07-18 23:08:55 ] GBP-USD
+last t: [ 2022-07-18 23:08:55 ] AUD-CHF
+last t: [ 2022-07-18 23:08:55 ] GBP-NZD
+last t: [ 2022-07-18 23:08:55 ] EUR-JPY
+USD-CHF   30.0
+GBP-SGD   -6.0
+AUD-CAD   -9.0
+last t: [ 2022-07-18 23:08:55 ] GBP-JPY
+last t: [ 2022-07-18 23:08:55 ] AUD-JPY
+last t: [ 2022-07-18 23:08:56 ] EUR-SGD
+last t: [ 2022-07-18 23:08:56 ] AUD-SGD
+last t: [ 2022-07-18 23:08:56 ] AUD-NZD
+last t: [ 2022-07-18 23:08:56 ] EUR-CAD
+last t: [ 2022-07-18 23:08:56 ] AUD-USD
+GBP-JPY   75.0
+last t: [ 2022-07-18 23:08:56 ] CAD-JPY
+last t: [ 2022-07-18 23:08:56 ] GBP-SGD
+CAD-JPY   4.0
+last t: [ 2022-07-18 23:08:56 ] GBP-USD
+last t: [ 2022-07-18 23:08:56 ] GBP-CHF
+last t: [ 2022-07-18 23:08:56 ] GBP-AUD
+last t: [ 2022-07-18 23:08:56 ] GBP-NZD
+last t: [ 2022-07-18 23:08:56 ] NZD-CAD
+last t: [ 2022-07-18 23:08:56 ] EUR-JPY
+last t: [ 2022-07-18 23:08:56 ] AUD-CAD
+last t: [ 2022-07-18 23:08:56 ] NZD-USD
+last t: [ 2022-07-18 23:08:56 ] EUR-AUD
+last t: [ 2022-07-18 23:08:56 ] AUD-CHF
+EUR-CHF   -25.0
+last t: [ 2022-07-18 23:08:57 ] EUR-SGD
+last t: [ 2022-07-18 23:08:57 ] EUR-GBP
+last t: [ 2022-07-18 23:08:57 ] USD-CHF
+last t: [ 2022-07-18 23:08:57 ] USD-JPY
+last t: [ 2022-07-18 23:08:56 ] CAD-CHF
+last t: [ 2022-07-18 23:08:57 ] NZD-JPY
+last t: [ 2022-07-18 23:08:57 ] EUR-USD
+last t: [ 2022-07-18 23:08:57 ] GBP-JPY
+last t: [ 2022-07-18 23:08:57 ] EUR-CHF
+last t: [ 2022-07-18 23:08:57 ] NZD-USD
+last t: [ 2022-07-18 23:08:57 ] EUR-CAD
+last t: [ 2022-07-18 23:08:57 ] CHF-JPY
+last t: [ 2022-07-18 23:08:57 ] AUD-CHF
+last t: [ 2022-07-18 23:08:57 ] AUD-NZD
+last t: [ 2022-07-18 23:08:57 ] CAD-CHF
+last t: [ 2022-07-18 23:08:57 ] GBP-NZD
+last t: [ 2022-07-18 23:08:57 ] EUR-JPY
+last t: [ 2022-07-18 23:08:57 ] GBP-AUD
+last t: [ 2022-07-18 23:08:57 ] AUD-CAD
+last t: [ 2022-07-18 23:08:58 ] NZD-CHF
+last t: [ 2022-07-18 23:08:58 ] AUD-CHF
+last t: [ 2022-07-18 23:08:58 ] NZD-JPY
+last t: [ 2022-07-18 23:08:58 ] GBP-NZD
+last t: [ 2022-07-18 23:08:58 ] AUD-NZD
+last t: [ 2022-07-18 23:08:58 ] GBP-CHF
+last t: [ 2022-07-18 23:08:58 ] EUR-GBP
+last t: [ 2022-07-18 23:08:58 ] USD-CHF
+last t: [ 2022-07-18 23:08:58 ] USD-JPY
+last t: [ 2022-07-18 23:08:58 ] GBP-AUD
+USD-CHF   -30.0
+last t: [ 2022-07-18 23:08:58 ] EUR-JPY
+EUR-AUD   -74.0
+last t: [ 2022-07-18 23:08:58 ] SGD-JPY
+AUD-NZD   5.0
+last t: [ 2022-07-18 23:08:58 ] EUR-USD
+last t: [ 2022-07-18 23:08:59 ] NZD-JPY
+last t: [ 2022-07-18 23:08:58 ] CHF-JPY
+last t: [ 2022-07-18 23:08:58 ] EUR-SGD
+last t: [ 2022-07-18 23:08:59 ] USD-CHF
+GBP-CHF   64.0
+last t: [ 2022-07-18 23:08:58 ] EUR-AUD
+last t: [ 2022-07-18 23:08:59 ] GBP-CAD
+CAD-CHF   -85.0
+last t: [ 2022-07-18 23:08:59 ] USD-JPY
+last t: [ 2022-07-18 23:08:59 ] GBP-JPY
+last t: [ 2022-07-18 23:08:59 ] EUR-CHF
+last t: [ 2022-07-18 23:08:59 ] EUR-CAD
+last t: [ 2022-07-18 23:08:59 ] EUR-USD
+last t: [ 2022-07-18 23:08:59 ] EUR-AUD
+last t: [ 2022-07-18 23:08:59 ] AUD-CHF
+last t: [ 2022-07-18 23:08:59 ] EUR-SGD
+last t: [ 2022-07-18 23:09:00 ] CHF-JPY
+last t: [ 2022-07-18 23:09:00 ] GBP-JPY
+last t: [ 2022-07-18 23:09:00 ] USD-CAD
+last t: [ 2022-07-18 23:09:00 ] NZD-JPY
+last t: [ 2022-07-18 23:09:00 ] USD-JPY
+last t: [ 2022-07-18 23:09:00 ] EUR-JPY
+last t: [ 2022-07-18 23:09:00 ] USD-SGD
+last t: [ 2022-07-18 23:09:00 ] CAD-JPY
+last t: [ 2022-07-18 23:09:00 ] EUR-CHF
+last t: [ 2022-07-18 23:09:00 ] GBP-SGD
+last t: [ 2022-07-18 23:09:00 ] EUR-CAD
+last t: [ 2022-07-18 23:09:00 ] GBP-USD
+last t: [ 2022-07-18 23:09:00 ] GBP-NZD
+last t: [ 2022-07-18 23:09:00 ] GBP-CHF
+USD-JPY   -1.0
+last t: [ 2022-07-18 23:09:00 ] NZD-CAD
+NZD-CAD   81.0
+GBP-CAD   -99.0
+last t: [ 2022-07-18 23:09:00 ] EUR-AUD
+AUD-CHF   -7.0
+GBP-CAD   99.0
+last t: [ 2022-07-18 23:09:00 ] GBP-AUD
+last t: [ 2022-07-18 23:09:00 ] EUR-SGD
+last t: [ 2022-07-18 23:09:01 ] NZD-USD
+last t: [ 2022-07-18 23:09:01 ] NZD-CHF
+last t: [ 2022-07-18 23:09:01 ] GBP-USD
+last t: [ 2022-07-18 23:09:01 ] EUR-NZD
+last t: [ 2022-07-18 23:09:00 ] GBP-CAD
+last t: [ 2022-07-18 23:09:01 ] AUD-SGD
+GBP-CHF   -64.0
+last t: [ 2022-07-18 23:09:01 ] AUD-NZD
+GBP-AUD   87.0
+AUD-CHF   8.0
+last t: [ 2022-07-18 23:09:01 ] USD-JPY
+last t: [ 2022-07-18 23:09:01 ] CAD-JPY
+last t: [ 2022-07-18 23:09:01 ] GBP-AUD
+last t: [ 2022-07-18 23:09:01 ] NZD-JPY
+last t: [ 2022-07-18 23:09:02 ] EUR-AUD
+EUR-GBP   -1.0
+last t: [ 2022-07-18 23:09:02 ] AUD-JPY
+last t: [ 2022-07-18 23:09:01 ] SGD-JPY
+last t: [ 2022-07-18 23:09:02 ] AUD-NZD
+last t: [ 2022-07-18 23:09:02 ] GBP-CAD
+last t: [ 2022-07-18 23:09:02 ] CAD-CHF
+last t: [ 2022-07-18 23:09:02 ] AUD-USD
+last t: [ 2022-07-18 23:09:02 ] GBP-AUD
+last t: [ 2022-07-18 23:09:02 ] CHF-JPY
+last t: [ 2022-07-18 23:09:02 ] USD-CAD
+last t: [ 2022-07-18 23:09:01 ] GBP-NZD
+GBP-JPY   35.0
+GBP-AUD   -1.0
+last t: [ 2022-07-18 23:09:02 ] AUD-CHF
+last t: [ 2022-07-18 23:09:02 ] AUD-CAD
+last t: [ 2022-07-18 23:09:02 ] EUR-NZD
+last t: [ 2022-07-18 23:09:02 ] SGD-JPY
+last t: [ 2022-07-18 23:09:03 ] USD-JPY
+last t: [ 2022-07-18 23:09:02 ] EUR-CHF
+EUR-GBP   1.0
+last t: [ 2022-07-18 23:09:02 ] USD-CHF
+last t: [ 2022-07-18 23:09:03 ] NZD-JPY
+last t: [ 2022-07-18 23:09:03 ] NZD-CAD
+last t: [ 2022-07-18 23:09:03 ] GBP-USD
+last t: [ 2022-07-18 23:09:03 ] GBP-NZD
+last t: [ 2022-07-18 23:09:03 ] EUR-GBP
+GBP-JPY   -12.0
+last t: [ 2022-07-18 23:09:03 ] AUD-USD
+NZD-USD   14.0
+last t: [ 2022-07-18 23:09:03 ] SGD-JPY
+AUD-NZD   175.0
+last t: [ 2022-07-18 23:09:03 ] EUR-AUD
+last t: [ 2022-07-18 23:09:03 ] USD-CHF
+last t: [ 2022-07-18 23:09:03 ] CAD-JPY
+last t: [ 2022-07-18 23:09:03 ] GBP-CHF
+last t: [ 2022-07-18 23:09:03 ] GBP-JPY
+last t: [ 2022-07-18 23:09:03 ] AUD-SGD
+last t: [ 2022-07-18 23:09:04 ] GBP-CAD
+last t: [ 2022-07-18 23:09:04 ] AUD-CAD
+last t: [ 2022-07-18 23:09:04 ] AUD-JPY
+last t: [ 2022-07-18 23:09:04 ] AUD-USD
+last t: [ 2022-07-18 23:09:04 ] AUD-NZD
+last t: [ 2022-07-18 23:09:04 ] GBP-CHF
+last t: [ 2022-07-18 23:09:04 ] GBP-JPY
+last t: [ 2022-07-18 23:09:04 ] GBP-NZD
+last t: [ 2022-07-18 23:09:03 ] USD-CAD
+last t: [ 2022-07-18 23:09:04 ] SGD-JPY
+last t: [ 2022-07-18 23:09:04 ] GBP-USD
+last t: [ 2022-07-18 23:09:04 ] EUR-USD
+last t: [ 2022-07-18 23:09:04 ] AUD-SGD
+last t: [ 2022-07-18 23:09:04 ] EUR-AUD
+last t: [ 2022-07-18 23:09:04 ] CHF-JPY
+last t: [ 2022-07-18 23:09:04 ] EUR-NZD
+last t: [ 2022-07-18 23:09:04 ] EUR-CHF
+last t: [ 2022-07-18 23:09:04 ] EUR-CAD
+last t: [ 2022-07-18 23:09:04 ] EUR-JPY
+last t: [ 2022-07-18 23:09:05 ] GBP-USD
+last t: [ 2022-07-18 23:09:05 ] SGD-JPY
+last t: [ 2022-07-18 23:09:04 ] USD-JPY
+last t: [ 2022-07-18 23:09:05 ] GBP-AUD
+USD-CHF   27.0
+last t: [ 2022-07-18 23:09:05 ] GBP-CAD
+last t: [ 2022-07-18 23:09:05 ] EUR-AUD
+last t: [ 2022-07-18 23:09:05 ] EUR-CAD
+last t: [ 2022-07-18 23:09:05 ] GBP-SGD
+last t: [ 2022-07-18 23:09:05 ] EUR-USD
+last t: [ 2022-07-18 23:09:05 ] CAD-JPY
+last t: [ 2022-07-18 23:09:05 ] EUR-SGD
+last t: [ 2022-07-18 23:09:05 ] GBP-JPY
+last t: [ 2022-07-18 23:09:05 ] AUD-CHF
+last t: [ 2022-07-18 23:09:05 ] AUD-JPY
+last t: [ 2022-07-18 23:09:05 ] NZD-JPY
+last t: [ 2022-07-18 23:09:05 ] AUD-USD
+last t: [ 2022-07-18 23:09:05 ] AUD-CAD
+last t: [ 2022-07-18 23:09:06 ] AUD-NZD
+last t: [ 2022-07-18 23:09:05 ] GBP-CHF
+last t: [ 2022-07-18 23:09:06

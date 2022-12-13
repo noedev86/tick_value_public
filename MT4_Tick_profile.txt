@@ -1,0 +1,80 @@
+MT4 Volume profile based on ticks
+
+I require an MT4 indicator to be built that would work similar to a Volume/Market profile but
+based on the ticks of Bid prices and Ask prices. I need the profile to be continuous, and not set
+on time periods. By this I mean that I can choose a specific number of bars, and then the
+indicator will show a profile for that specified number of bars. If I set it to 50 bars, and I open up
+the 1 minute chart on EURUSD, the tick profile will be shown up until the last 50th bar. When the
+new bar comes in, the last bars data gets deleted from the profile and the new bars data will be
+added to the profile.
+
+But to begin with, I need an API to gather all the tick data from the major currencies and store it
+on a server that can be accessed directly by the indicator. This is so I don’t need to wait for the
+MT4 indicator to start up and gather the new ticks in order to build the tick profile. It would
+already have the ticks ready to show the profile.
+Furthermore, from the server, I need all the currencies to be separated individually and have their
+bid prices or ask prices, while taking into account the spread, added up in order to show its true
+value. For example, EURUSD, EURGBP, EURJPY, will all gather the tick data of the EUR as
+positive for every buy tick, and for the inverted pair, it will be negative for every buy tick. Then all
+the ticks from the different charts will be added together and have a feed shown for EUR,
+another feed for USD, GBP, etc. The spread that’s being taken into account works like this:
+If the Ask price moves up by 1 tick but the Bid price did not move, then this is +1 tick (ask price
+moved and spread increased).
+If the Bid price moves down by 1 tick but the Ask price did not move, then this is -1 tick.
+If the Bid price moves up by 1 tick but the Ask price did not move, then this is +1 tick.
+If the Ask price moves down by 1 tick but the Bid price did not move, then this is -1 tick.
+If this something you can do, I will describe a more concrete example to clarify my requirements.
+EURUSD ask price moves up 1 tick and bid didn’t move, then this is +1 for EUR and -1 for USD.
+So for EURUSD each Ask move and Bid move up is +1 for EUR and -1 for USD.
+Each Ask move and Bid move down is -1 for EUR and +1 for USD.
+Ask moves will only be calculated if Bid doesnt move and vice versa for Bid moves (if the spread
+increases or decreases).
+The system should gather all the tick values for each pair and then separate each currency and
+show it’s true value by adding all the other ask/bid movements together.
+So all Euro pairs will have a section for the Euro and all the bid movements from each pair and all
+the ask movements from each pair are added together to show where it’s current value is at. The
+same should be done for USD, GBP, JPY, etc.
+So when I open EURUSD, in regards to the strength of the Euro and USD separately, regardless
+of where the price is at right now, the tick profile will start generating either a green profile or a
+red profile.
+Say all Euro pairs show that Euro is +53 and USD is +33. Since it’s Euro vs USD, the profile will be
+green if Euro is stronger than USD (+20). USD is will be negative 33 because it’s inverted against
+the EUR, so it’s 53-33 which is 20.
+But since price moves up and down on the charts, then Euro strength and USD strength will leave
+its footprint as the price of EURUSD moves up/down.
+Regardless if EURUSD is moving or not, the profile will be generated.
+If EURUSD is not moving and USD is getting stronger on other pairs and EUR is getting weaker in
+other pairs, the profile will start generating a red profile extending to the right. If price moves up
+a point, then the value from the other pairs will leave it’s footprint of EURUSD on the next point.
+If the profile is green but EURUSD is getting weaker, instead of generating a separate red profile
+on top, the green profile will shrink. If it gets to 0 and continues going in the negative, then the
+profile will extend as a red profile.
+An example would be like this, if we use EURUSD, EURGBP, and GBPUSD
+EURUSD: Ask price moves up 1 tick and bid price remains still: this is +1 for EUR and -1 for USD
+EURGBP: Bid price moves down 1 tick and ask price remains still: this is -1 for EUR and +1 for
+GBP
+GBPUSD: Bid prices moves up 2 ticks and ask price remains still: this +2 for GBP and -2 for USD.
+So altogether:
+EUR is at 0 (+1 and -1)
+USD is at -3 (-1 and -3)
+GBP is at +3 (+1 and +2)
+This all happened at the same time. So now if I open up GBPUSD, the tick profile that’s shown
+has the data of all GBP pairs and all USD pairs (in this scenario it’s only 3 different pairs that we
+have the data of). GBP is at +3 and USD is at -3. But because USD is the 2nd currency in this
+have the data of). GBP is at +3 and USD is at -3. But because USD is the 2nd currency in this
+pair, it means that the value from USD is inverted, there it would be +3. Total it would be +6.
+If GBP was +3 and USD was +2, then GBP/USD would be: +3 and -2, so total it would be +1.
+If the pair was USD/GBP and the values were +2 for USD and +3 for GBP, then it would be shown
+as +2 USD and -3 GBP, total -1.
+The server should already have a profile ready to be uploaded for each chart so that we do not
+need to wait for the price to move for the profile to be generated.
+So say it counts the ticks for EUR and resets the count each minute (just so it’s not counting
+endlessly)
+It also has the ticks counted for USD and GBP and JPY and AUD etc.
+It then has the price of EURUSD and has already generated the profile of EURUSD for the
+previous 24 hours (or 4 hours or 1 week, whatever we decide for it to keep track of). And as each
+minute comes, it deletes the data of the last 1,440th minute and replaces the front with the new
+data
+Then we open EURUSD and say we open the 1minute charts and choose the indicator to only
+show us the profile of the previous 25 bars, it’ll take the data that’s continuously been generating
+in the server and displays the profile of the previous 25 bars.
